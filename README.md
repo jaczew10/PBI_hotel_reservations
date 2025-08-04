@@ -13,7 +13,7 @@ It is designed as a static portfolio project exploring guest behavior, booking t
 
   -The report was intentionally built as a fully static layout — cross-filtering between visuals is disabled to maintain a clean and consistent design.
   
-  -Users can navigate and filter the report using a bookmarks panel, which works like slicers but keeps everything easy to use and well-organized
+  -Users can filter the report using a bookmarks panel
   
   -Each report page is focused on a specific analysis area: Bookings, Revenue, Guests, and Cancellations.
 
